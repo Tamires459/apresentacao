@@ -23,4 +23,4 @@
 
 # :desktop_computer: Você também pode me encontrar!
 [![My Skills](https://skillicons.dev/icons?i=linkedin,theme=light)](https://linkedin.com/in/tamires-vp-xavier)
-www.linkedin.com/in/tamires-vp-xavier
+
